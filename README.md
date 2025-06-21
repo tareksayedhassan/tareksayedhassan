@@ -1,5 +1,12 @@
 ## 👋 Hi there, I'm Tarek
 
+![image](https://github.com/user-attachments/assets/8baec15f-cb77-4d8d-8ca3-de7c086dedfe)
+
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/avakinmemo)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tareksayed.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarek-el-sayed-06139631b/) 
+
 🔭 I’m currently a freelancer Front-End Developer  
 💻 Most used line of code: `git commit -m "Initial Commit"`  
 📫 How to reach me: tareksayed.dev@gmail.com  
